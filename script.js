@@ -16,6 +16,8 @@ function getValues(element){
     return element;
 }
 
+let cap1=person;
+
 
 
 window.players = players;
