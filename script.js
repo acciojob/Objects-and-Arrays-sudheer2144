@@ -10,7 +10,7 @@ const person = {
 
 const team = players;
 
-const team1 = players.map(getValues);
+const team1 = players.map(getValues(players));
 
 function getValues(element){
     return element;
